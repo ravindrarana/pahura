@@ -26,7 +26,7 @@ define( 'DB_NAME', 'pahura' );
 define( 'DB_USER', 'root' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'whoami' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
